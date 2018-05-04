@@ -1,0 +1,39 @@
+div
+{
+	width: 406px;
+	height:600px;
+	background-color: white;
+	-webkit-box-shadow: 1px 13px 18px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 13px 18px -6px rgba(0,0,0,0.75);
+	box-shadow: 1px 13px 18px -6px rgba(0,0,0,0.75);
+	
+}
+h1
+{
+	color:#494949;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: roboto;
+	padding:10px;
+	position: relative;
+}
+p
+{
+	color: #b2b2b2;
+	padding: 10px;
+}
+.am
+{
+	color: #494949f2;
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+	
+}
+.an
+{
+	color: #00c371;
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+	
+
+}

@@ -1,0 +1,45 @@
+div
+{
+	float: right;
+	height: 800px;
+	width: 600px;
+}
+code
+{
+	font-family: initial;
+	color: grey;
+}
+.style
+{
+	float: right;
+	color: grey;
+}
+article
+{
+	width: 400px;
+	height: 30px;
+	background-color: #f5f5f5;
+}
+.lik
+{
+	background-color: #f5f5f5;
+	border:none;
+	padding: 10px;
+	margin: 2px;
+	width: 200px;
+	border-radius: 2px;
+}
+.crt
+{
+	background-color: #fa5400;
+	border:none;
+	padding: 10px;
+	margin: 2px;
+	width: 200px;
+	border-radius: 2px;
+	color: white;
+}
+.id
+{
+	float: right;
+}

@@ -1,0 +1,73 @@
+body
+{
+    margin:0px;
+    text-align: center;
+    background-image: url(images.jpg);
+    background-size: cover;
+}
+ul
+{
+    margin:5px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    color: #E6E6FA;
+}
+ol>li
+{
+    background-color: #ff9999;
+    color: white;
+    margin-right: 0px;
+}
+ol
+ {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+    display: block;
+}
+li 
+{   width: 200px;
+    border: 1PX solid purple;
+    font-weight: bold;
+    background-color: #ffe5e5;
+    margin-left: 12px;
+    padding: 10px;
+}
+div
+{
+    width: 30%;
+    margin: auto
+
+}
+li a
+{
+    display: block;
+    color:#387db6;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover:not(.active) 
+{
+    background-color: purple;
+    color: white;
+}
+.active 
+{
+    background-color: #4CAF50;
+}
+h1
+{
+    font-family: 'Jacques Francois Shadow', cursive;
+   text-align: center;
+   display: inline-block;
+   margin:0px;
+   font-size: 50px;
+   color:#6d3d67;
+}
+body
+{
+    background-color: #E6E6FA;
+}

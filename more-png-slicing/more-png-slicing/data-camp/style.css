@@ -1,0 +1,33 @@
+div{
+    width: 200px;
+height: 300px;
+background-color:#348db3;
+}
+li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li {
+    text-align: center;
+}
+
+li:last-child {
+    border-bottom:;
+}
+
+li a.active {
+    background-color: ;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: ;
+    color: white;
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid ;
+}
